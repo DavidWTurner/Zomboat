@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/OutsideCombat.umap",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/OutsideCombat.umap",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/Main/OutsideCombat.umap"
+			]
+		}
+	]
+}
