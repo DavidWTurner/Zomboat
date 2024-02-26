@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Unreal/FMP/Zomboat/Zomboat/Content/OutsideCombat.umap",
 				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/OutsideCombat.umap",
-				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/Main/OutsideCombat.umap"
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/Main/OutsideCombat.umap",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/Levels/Dave/OutsideCombat.umap",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/CardUI/BP_CardController.uasset",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/3DWorld/BP_PlayerCharacter.uasset",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/3DWorld/BP_EnemyCharacter.uasset",
+				"C:/Unreal/FMP/Zomboat/Zomboat/Content/3DWorld/AI_EnemyHealthWidget.uasset"
 			]
 		}
 	]
